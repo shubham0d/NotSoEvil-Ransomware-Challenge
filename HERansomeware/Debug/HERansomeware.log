@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HERansomeware.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HERansomware.cpp
+c:\users\trisha\source\repos\heransomeware\heransomeware\heransomware.cpp(79): warning C4101: 'ffd': unreferenced local variable
+c:\users\trisha\source\repos\heransomeware\heransomeware\heransomware.cpp(328): warning C4101: 'a': unreferenced local variable
+c:\users\trisha\source\repos\heransomeware\heransomeware\heransomware.cpp(451): warning C4101: 'key': unreferenced local variable
+  HERansomeware.vcxproj -> C:\Users\Trisha\source\repos\HERansomeware\Debug\HERansomware.exe
